@@ -1,0 +1,14 @@
+The Wikipydia Changelog
+0.1:
+      - Initial release
+      - Basic functionality
+            - View and search pages
+
+0.1.1:
+      - Added scrolling to the page view
+            - Scroll with arrow keys
+            - Press "Home" to reset scroll
+            - If you want to test this out, search for "Example/Lorem Ipsum"
+      - Added changelog
+      - Added check for page existence
+            - If the page doesn't exist, it will redirect to the main page
